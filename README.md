@@ -1,0 +1,2 @@
+# STAKK
+Social media plateform
